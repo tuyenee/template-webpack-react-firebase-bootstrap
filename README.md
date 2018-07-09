@@ -1,4 +1,4 @@
-# PROJECT TEMPLATE: Webpack + ReactJs + Firebase + Bootstrap
+# Project template: Webpack, React, Firebase, Bootstrap
 
 An empty project to start with.
 
